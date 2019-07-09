@@ -11,6 +11,7 @@
 * Free Stock Images With Great API - https://unsplash.com/
 * Free- Vectors, mockups - https://www.freepik.com
 * Free Icons - https://www.iconfinder.com
+* Open-source illustrations Drawings - https://undraw.co/
 
 ## CODE OPTIMIZATION:
 * Minify JS & CSS - http://minifier.org
@@ -22,10 +23,16 @@
 * Compress JPG - http://jpeg-optimizer.com/
 * Compress PNG - https://tinypng.com/
 
+## LEARNING CURVES
+* CSS Almanac (Documentation for CSS) https://css-tricks.com/almanac/
+* Learn CSS by Game - https://flukeout.github.io/
+* Learn FLEXBOX by Game - https://flexboxfroggy.com/#fr
+
 ## COLOR & DESIGN:
 * Create Color Schemes - https://color.hailpixel.com
 * Get Color Schemes of Websites - http://stylifyme.com
 * Create Gradients - https://uigradients.com
+* Color Generator - https://paletton.com/
 
 ## WIREFRAME:
 * In Browser Wireframing - https://app.moqups.com
