@@ -2,7 +2,6 @@
 * Text Content Generator - http://www.lipsum.com
 * Favicon Generator - http://tools.dynamicdrive.com/favicon		
 * Data Generator - https://mockaroo.com/						
-* Mobile Mockup Generator - https://mockuphone.com
 * Logo Generator - https://www.logaster.com
 * UUID Generator - https://www.uuidgenerator.net/
 * Hash Generator - https://passwordsgenerator.net/sha256-hash-generator/
@@ -40,4 +39,3 @@
 
 ## OTHER:
 * Public API Resources - https://github.com/toddmotto/public-apis?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
-* Organized Docs for all Popular Web Technologies - https://devdocs.io
