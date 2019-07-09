@@ -24,9 +24,12 @@
 * Compress PNG - https://tinypng.com/
 
 ## LEARNING CURVES
-* CSS Almanac (Documentation for CSS) https://css-tricks.com/almanac/
+* CSS Almanac (Documentation for CSS) - https://css-tricks.com/almanac/
 * Learn CSS by Game - https://flukeout.github.io/
 * Learn FLEXBOX by Game - https://flexboxfroggy.com/#fr
+* Learn CSS GRID by Game - http://cssgridgarden.com/#fr
+* CSS GRID CheatSheet - http://grid.malven.co/
+* FLEXBOX CheatSheet - http://flexbox.malven.co/
 
 ## COLOR & DESIGN:
 * Create Color Schemes - https://color.hailpixel.com
@@ -35,12 +38,12 @@
 * Color Generator - https://paletton.com/
 
 ## BOOSTRAP BASED THEMES:
-- Cruip cool and new - https://cruip.com/
-- UI kits and landing pages - https://www.creative-tim.com
-- Other UI kits - https://mdbootstrap.com/freebies/
+* Cruip cool and new - https://cruip.com/
+* UI kits and landing pages - https://www.creative-tim.com
+* Other UI kits - https://mdbootstrap.com/freebies/
 
 ## ANIMATIONS:
-- Animate - https://daneden.github.io/animate.css/
+* Animate - https://daneden.github.io/animate.css/
 
 ## WIREFRAME:
 * In Browser Wireframing - https://app.moqups.com
