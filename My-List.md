@@ -34,6 +34,14 @@
 * Create Gradients - https://uigradients.com
 * Color Generator - https://paletton.com/
 
+## BOOSTRAP BASED THEMES:
+- Cruip cool and new - https://cruip.com/
+- UI kits and landing pages - https://www.creative-tim.com
+- Other UI kits - https://mdbootstrap.com/freebies/
+
+## ANIMATIONS:
+- Animate - https://daneden.github.io/animate.css/
+
 ## WIREFRAME:
 * In Browser Wireframing - https://app.moqups.com
 
