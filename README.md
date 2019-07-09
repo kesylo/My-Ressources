@@ -1,5 +1,4 @@
 ## GENERATORS:
-* Text Content Generator - http://www.lipsum.com
 * Favicon Generator - http://tools.dynamicdrive.com/favicon		
 * Data Generator - https://mockaroo.com/						
 * Logo Generator - https://www.logaster.com
@@ -27,8 +26,6 @@
 * Create Color Schemes - https://color.hailpixel.com
 * Get Color Schemes of Websites - http://stylifyme.com
 * Create Gradients - https://uigradients.com
-* CSS Button Generator - http://css3buttongenerator.com 
-* HTML Entity Lookup - http://entity-lookup.leftlogic.com/
 
 ## WIREFRAME:
 * In Browser Wireframing - https://app.moqups.com
